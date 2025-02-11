@@ -162,6 +162,7 @@ const Collection = () => {
             </p>
           </div>
         </div>
+        </div>
         {/* Right side */}
         <div className="flex-1">
           <div className="flex justify-between text-base sm:text-2xl mb-4">
@@ -186,7 +187,7 @@ const Collection = () => {
             ))}
           </div>
         </div>
-      </div>
+      
     </div>
   );
 };
